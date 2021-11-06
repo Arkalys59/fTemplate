@@ -1,3 +1,3 @@
 # fTemplate
 
-Discord: https://discord.gg/VEmVnmZZ
+👌 Discord: https://discord.gg/VEmVnmZZ
