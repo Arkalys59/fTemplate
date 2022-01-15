@@ -251,7 +251,11 @@ INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
 ('tank_ammo', 'tank_ammo', -1, 0, 1),
 ('vintagepistol', 'FN Model 1910', -1, 0, 1),
 ('water', 'Water', 1, 0, 1),
-('wrench', 'wrench', -1, 0, 1);
+('wrench', 'wrench', -1, 0, 1),
+('pistol_ammo_box', 'Chargeur pistolet', -1, 0, 1),
+('smg_ammo_box', 'Chargeur smg', -1, 0, 1),
+('rifle_ammo_box', 'Chargeur rifle', -1, 0, 1),
+('shotgun_ammo_box', 'Chargeur shotgun', -1, 0, 1);
 
 -- --------------------------------------------------------
 
